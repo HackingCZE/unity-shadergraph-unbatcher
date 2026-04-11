@@ -1,6 +1,6 @@
 {
   "name": "com.dh.shadergraph-unbatcher",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "displayName": "ShaderGraph Unbatcher",
   "description": "A utility tool to export Shader Graph assets as standalone shaders with SRP Batching disabled.",
   "unity": "6000.0",
