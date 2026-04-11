@@ -25,7 +25,10 @@ The **SRP Batcher** is great for performance, but sometimes you _need_ to break 
 2. Click the `+` button in the top left corner.
 3. Select **Add package from git URL...**.
 4. Paste the following URL:
-   `https://github.com/HackingCZE/unity-shadergraph-unbatcher.git`
+
+```
+   https://github.com/HackingCZE/unity-shadergraph-unbatcher.git
+```
 
 ## How to Use
 
@@ -46,7 +49,7 @@ The tool performs the following modifications during export:
 
 ## Compatibility
 
-- **Unity**: 2021.3 LTS or newer.
+- **Unity**: Made for Unity 6.
 - **Render Pipelines**: URP & HDRP.
 - **Dependencies**: Requires the `Shader Graph` package to be installed in your project.
 
