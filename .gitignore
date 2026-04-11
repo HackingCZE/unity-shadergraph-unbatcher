@@ -21,3 +21,4 @@
 *.pdb
 *.opendb
 *.VC.db
+node_modules/
