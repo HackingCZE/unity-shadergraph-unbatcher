@@ -5,8 +5,9 @@
   "description": "A utility tool to export Shader Graph assets as standalone shaders with SRP Batching disabled.",
   "unity": "6000.0",
   "author": {
-    "name": "Your Name",
-    "email": "your.email@example.com"
+    "name": "Dominik Hurta",
+    "email": "sillyhatstudio@gmail.com",
+    "url": "https://www.youtube.com/@studiosillyhat"
   },
   "keywords": [
     "shader",
