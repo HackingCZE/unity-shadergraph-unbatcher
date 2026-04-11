@@ -1,17 +1,19 @@
 {
-  "name": "com.yourname.shadergraph-unbatcher",
+  "name": "com.dh.shadergraph-unbatcher",
   "version": "1.0.0",
   "displayName": "ShaderGraph Unbatcher",
-  "description": "Nástroj pro převedení Shader Graphu na shader bez SRP batchingu.",
-  "unity": "2021.3",
+  "description": "A utility tool to export Shader Graph assets as standalone shaders with SRP Batching disabled.",
+  "unity": "6000.0",
   "author": {
-    "name": "Tvý Jméno",
-    "email": "tvuj@email.cz"
+    "name": "Your Name",
+    "email": "your.email@example.com"
   },
   "keywords": [
     "shader",
     "shadergraph",
     "srp",
-    "batching"
+    "batching",
+    "urp",
+    "hdrp"
   ]
 }
