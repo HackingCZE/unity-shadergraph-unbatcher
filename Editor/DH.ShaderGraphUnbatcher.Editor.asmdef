@@ -1,0 +1,25 @@
+{
+    "name": "DH.ShaderGraphUnbatcher.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:457756ad565d22240af294ca4c9973b0",
+        "GUID:be19475d872399a439b78bd625ec5b9a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.shadergraph",
+            "expression": "10.0.0",
+            "define": "SG_INSTALLED"
+        }
+    ],
+    "noEngineReferences": false
+}

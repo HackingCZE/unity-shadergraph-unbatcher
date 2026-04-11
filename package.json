@@ -1,0 +1,17 @@
+{
+  "name": "com.yourname.shadergraph-unbatcher",
+  "version": "1.0.0",
+  "displayName": "ShaderGraph Unbatcher",
+  "description": "Nástroj pro převedení Shader Graphu na shader bez SRP batchingu.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Tvý Jméno",
+    "email": "tvuj@email.cz"
+  },
+  "keywords": [
+    "shader",
+    "shadergraph",
+    "srp",
+    "batching"
+  ]
+}
