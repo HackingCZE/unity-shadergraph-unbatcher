@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/HackingCZE/unity-shadergraph-unbatcher/compare/v1.2.0...v1.3.0) (2026-04-27)
+
+
+### Features
+
+* add package cache check and export path dialog ([919e058](https://github.com/HackingCZE/unity-shadergraph-unbatcher/commit/919e058b57cd1a4d602b94c88129223b40b32c6a))
+
 # [1.2.0](https://github.com/HackingCZE/unity-shadergraph-unbatcher/compare/v1.1.0...v1.2.0) (2026-04-11)
 
 
